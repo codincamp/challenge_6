@@ -26,10 +26,11 @@ Challenge 6 - Intégration Bootstrap
 
 ## Taille des Titres:
 
-* Nom du site = 4em;
+* Nom du site (H1) = 4em;
 * Texte de la Nav = 1.5em;
-* H1 = 3em;
-* H2 = 2em;
+* H2 = 3em;
+* H3 = 2em;
+* H4 = 1.5em;
 * Normal = 1em;
 
 Dans le footer le 1er article et une balise `<blockquote>`
