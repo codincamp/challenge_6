@@ -33,4 +33,4 @@ Challenge 6 - Intégration Bootstrap
 * H4 = 1.5em;
 * Normal = 1em;
 
-Dans le footer le 1er article et une balise `<blockquote>`
+Dans le footer le 1er article est une balise `<blockquote>` (de John Smith)
