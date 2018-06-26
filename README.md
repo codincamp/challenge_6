@@ -20,7 +20,7 @@ Challenge 6 - Intégration Bootstrap
 
 ## Couleur Texte:
 
-* Titre = ##2A2A2A;
+* Titre = #2A2A2A;
 * Sous-titre = #FF3002;
 * Normal = #525252;
 
